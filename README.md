@@ -5,9 +5,11 @@ This project is not connected to the gallery on http://matplotlib.org/gallery.ht
 
 To view the IPython notebooks, simply click on the header links or images.
 
-Sections
-2D histograms / heat maps / levelplots
-3D Plots
+Sections:-
+
+
+#2D histograms / heat maps / levelplots
+#3D Plots
 Bar plots
 Boxplots and Violinplots
 Errorbar plots
